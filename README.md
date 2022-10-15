@@ -9,4 +9,3 @@ https://maven.google.com/com/google/android/gms/play-services-ads-identifier/17.
 
 **Requires:**
 - `Android 9 (API 28) SDK Platform`
-- [dandar3/android-google-play-services-basement](https://github.com/dandar3/android-google-play-services-basement/tree/17.0.0)
